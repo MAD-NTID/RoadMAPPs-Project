@@ -1,8 +1,15 @@
-# RoadMAPPs-Project
+# RoadMAPPs-Project ([^1]) <!-- omit in toc -->
 
-Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
+## Table of Contents
+- [RoadMAPPs-Project ([^1])](#roadmapps-project-1) <!-- omit in toc -->
+  - [Table of Contents](#table-of-contents)
+  - [Overview (#Overview)](#overview-overview)
+  - [Program Course Mask](#program-course-mask)
+    - [First Year](#first-year)
+    - [Second Year](#second-year)
+    - [Third Year](#third-year)
 
-## Overview
+## Overview (#Overview)
 
 Due to explosive growth in the use of mobile computing devices, there has been an employment boom in the field of mobile application development, and the demand for new and innovative mobile apps is growing at an incredible speed.
 
@@ -22,39 +29,38 @@ The Associate+Bachelor’s Degree Program in mobile application development prep
 
 ### First Year
 
-Course | Sem. Cr. Hrs.
------- | -------------
-NACA-172 Website Development‡ | 3
-NCAR-010 Freshman Seminar | 0
-NMAD-155 Survey of Emerging Visual Design | 3
-NMAD-180 Programming Fundamentals I: Mobile Domain | 4
-NMAD-181 Programming Fundamentals II: Mobile Domain | 4
-NMAD-182 Software Analysis and Design | 3
-NMAD-250 Mobile User Experience | 3
-NMTH-255 General Education – Elective: Introduction to Discrete Mathematics | 3
-UWRT-150 General Education – First-Year Writing: FYW: Writing Seminar (WI) | 3
- 	
-General Education – Elective*
-3
-Second Year
-ISTE-230	Introduction to Database and Data Modeling	3
-ISTE-240	Web & Mobile II	3
-NACT-240	The World of Work	3
-NMAD-252	Mobile User Interfaces 	3
-NMAD-260	Mobile App Development I	4
-NMAD-261	Mobile App Development II	4
-NMAD-262	Web Services and Data Storage Technologies	3
-NMAD-299	Mobile Application Development Co-op	0
- 	
-General Education – Ethical Perspective*
-3
- 	
-General Education – Social Perspective*
-3
- 	
-General Education – Scientific Principles Perspective
-3
-Third Year
+Course | | Sem. Cr. Hrs.
+:------ | :- | -------------:
+NACA-172 | Website Development‡ | 3
+NCAR-010 | Freshman Seminar | 0
+NMAD-155 | Survey of Emerging Visual Design | 3
+NMAD-180 | Programming Fundamentals I: Mobile Domain | 4
+NMAD-181 | Programming Fundamentals II: Mobile Domain | 4
+NMAD-182 | Software Analysis and Design | 3
+NMAD-250 | Mobile User Experience | 3
+NMTH-255 | General Education – Elective: Introduction to Discrete Mathematics | 3
+UWRT-150 | General Education – First-Year Writing: FYW: Writing Seminar (WI) | 3
+| | General Education – Elective [^*] | 3
+
+### Second Year
+
+Course | | Sem. Cr. Hrs.
+:------ | :- | -------------:
+ISTE-230 | Introduction to Database and Data Modeling | 3
+ISTE-240 | Web & Mobile II | 3
+NACT-240 | The World of Work | 3
+NMAD-252 | Mobile User Interfaces  | 3
+NMAD-260 | Mobile App Development I | 4
+NMAD-261 | Mobile App Development II | 4
+NMAD-262 | Web Services and Data Storage Technologies | 3
+NMAD-299 | Mobile Application Development Co-op | 0
+| | General Education – Ethical Perspective [^*] | 3
+| | General Education – Social Perspective [^*] | 3
+| | General Education – Scientific Principles Perspective | 3
+
+
+## Third Year
+
 NBUS-225	Introduction to Entrepreneurship	3
 NMAD-290	Mobile Applications Development Capstone Projects	3
  	
@@ -72,6 +78,8 @@ Please see the NTID General Education Curriculum (GE) for more information.
 
 Please see Wellness Education Requirement for more information. Students completing associate degrees are required to complete one Wellness course.
 
-* An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
+[^*]: An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
 
-‡ NACA-172 and ISTE-140 are equivalents.
+‡ NACA-172 and ISTE-140 are equivalent.
+
+[^1]: Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
