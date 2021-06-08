@@ -1,7 +1,8 @@
-# RoadMAPPs-Project[^1] <!-- omit in toc -->
+# RoadMAPPs-Project[<sup>1</sup>](#f1)
+[^1] <!-- omit in toc -->
 
 ## Table of Contents
-- [RoadMAPPs-Project ([^1])](#roadmapps-project-1) <!-- omit in toc -->
+- [RoadMAPPs-Project([^1])](#roadmapps-project-1) <!-- omit in toc -->
   - [Table of Contents](#table-of-contents)
   - [Overview (#Overview)](#overview-overview)
   - [Program Course Mask](#program-course-mask)
@@ -83,4 +84,4 @@ Please see Wellness Education Requirement for more information. Students complet
 
 ‡ NACA-172 and ISTE-140 are equivalent.
 
-[^1]: Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
+<sup>1</sup>(#f1) Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
