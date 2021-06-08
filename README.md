@@ -34,8 +34,8 @@ Course | | Sem. Cr. Hrs.
 NACA-172 | Website Development‡ | 3
 NCAR-010 | Freshman Seminar | 0
 NMAD-155 | Survey of Emerging Visual Design | 3
-NMAD-180 | [Programming Fundamentals I: Mobile Domain] (nmad180/readme.md) | 4
-NMAD-180 | <a href="nmad180/readme"> PF I </a>
+NMAD-180 | [Programming Fundamentals I: Mobile Domain](nmad180/readme.md) | 4
+NMAD-180 | <a href="nmad180/readme.md"> PF I </a>
 NMAD-181 | Programming Fundamentals II: Mobile Domain | 4
 NMAD-182 | Software Analysis and Design | 3
 NMAD-250 | Mobile User Experience | 3
