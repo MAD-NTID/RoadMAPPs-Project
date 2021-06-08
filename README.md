@@ -78,6 +78,8 @@ Please see the NTID General Education Curriculum (GE) for more information.
 
 Please see Wellness Education Requirement for more information. Students completing associate degrees are required to complete one Wellness course.
 
+<p style="border-bottom: 2px solid; width=30%"></p>
+
 <sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
 
 <sup><a name="f2">2</a></sup> An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
