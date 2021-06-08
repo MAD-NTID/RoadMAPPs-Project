@@ -1,13 +1,12 @@
 # RoadMAPPs-Project<sup><a href="#f1"> 1</a></sup>
 
 ## Table of Contents
-- [RoadMAPPs-Project([^1])](#roadmapps-project-1) <!-- omit in toc -->
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview-overview)
-  - [Program Course Mask](#program-course-mask)
-    - [First Year](#first-year)
-    - [Second Year](#second-year)
-    - [Third Year](#third-year)
+[Overview](#overview)
+
+[Program Course Mask](#program-course-mask)
+- [First Year](#first-year)
+- [Second Year](#second-year)
+- [Third Year](#third-year)
 
 ## Overview
 
@@ -83,4 +82,4 @@ Please see Wellness Education Requirement for more information. Students complet
 
 <sup><a name="f2">2</a></sup> An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
 
-<sup><a name="f2">‡</a></sup> NACA-172 and ISTE-140 are equivalent.
+<sup><a name="f3">‡</a></sup> NACA-172 and ISTE-140 are equivalent.
