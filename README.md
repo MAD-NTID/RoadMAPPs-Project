@@ -1,4 +1,4 @@
-# RoadMAPPs-Project ([^1]) <!-- omit in toc -->
+# RoadMAPPs-Project[^1] <!-- omit in toc -->
 
 ## Table of Contents
 - [RoadMAPPs-Project ([^1])](#roadmapps-project-1) <!-- omit in toc -->
