@@ -9,7 +9,7 @@
     - [Second Year](#second-year)
     - [Third Year](#third-year)
 
-## Overview (#Overview)
+## Overview
 
 Due to explosive growth in the use of mobile computing devices, there has been an employment boom in the field of mobile application development, and the demand for new and innovative mobile apps is growing at an incredible speed.
 
@@ -31,16 +31,16 @@ The Associate+Bachelor’s Degree Program in mobile application development prep
 
 Course | | Sem. Cr. Hrs.
 :------ | :- | -------------:
-NACA-172 | Website Development‡ | 3
+NACA-172 | [Website Development](NACA172)<sup><a href="#f3"> ‡</a></sup> | 3
 NCAR-010 | Freshman Seminar | 0
-NMAD-155 | Survey of Emerging Visual Design | 3
+NMAD-155 | [Survey of Emerging Visual Design](NMAD155) | 3
 NMAD-180 | [Programming Fundamentals I: Mobile Domain](NMAD180/) | 4
-NMAD-181 | Programming Fundamentals II: Mobile Domain | 4
-NMAD-182 | Software Analysis and Design | 3
-NMAD-250 | Mobile User Experience | 3
+NMAD-181 | [Programming Fundamentals II: Mobile Domain](NMAD181) | 4
+NMAD-182 | [Software Analysis and Design](NMAD182) | 3
+NMAD-250 | [Mobile User Experience](NMAD250) | 3
 NMTH-255 | General Education – Elective: Introduction to Discrete Mathematics | 3
 UWRT-150 | General Education – First-Year Writing: FYW: Writing Seminar (WI) | 3
-| | General Education – Elective [^*] | 3
+| | General Education – Elective<sup><a href="#f2"> 2</a></sup> | 3
 
 ### Second Year
 
@@ -61,28 +61,26 @@ NMAD-299 | Mobile Application Development Co-op | 0
 
 ## Third Year
 
-NBUS-225	Introduction to Entrepreneurship	3
-NMAD-290	Mobile Applications Development Capstone Projects	3
- 	
-Open Elective*
-3
- 	
-General Education – Artistic Perspective*
-3
- 	
-General Education – Global Perspective*
-3
-Total Semester Credit Hours	
-76
+Course | | Sem. Cr. Hrs.
+:------ | :- | -------------:
+NBUS-225 | Introduction to Entrepreneurship | 3
+NMAD-290 | Mobile Applications Development Capstone Projects | 3
+| | Open Elective<sup><a href="#f2"> 2</a></sup> | 3
+| | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
+| | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
+| | &nbsp; | &nbsp;
+| &nbsp; | <strong><em>Total Semester Credit Hours: </em></strong>| <em><strong>76</strong></em>
+
+<br />
+<hr />
+<br />
+
 Please see the NTID General Education Curriculum (GE) for more information.
 
 Please see Wellness Education Requirement for more information. Students completing associate degrees are required to complete one Wellness course.
-
-<p style="border-bottom: 2px solid; width=30%"></p>
 
 <sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
 
 <sup><a name="f2">2</a></sup> An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
 
-‡ NACA-172 and ISTE-140 are equivalent.
-
+<sup><a name="f2">‡</a></sup> NACA-172 and ISTE-140 are equivalent.
