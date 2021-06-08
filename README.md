@@ -1,5 +1,4 @@
-# RoadMAPPs-Project[<sup>1</sup>](#f1)
-[^1] <!-- omit in toc -->
+# RoadMAPPs-Project<sup><a href="#f1"> 1</a></sup>
 
 ## Table of Contents
 - [RoadMAPPs-Project([^1])](#roadmapps-project-1) <!-- omit in toc -->
@@ -36,7 +35,6 @@ NACA-172 | Website Development‡ | 3
 NCAR-010 | Freshman Seminar | 0
 NMAD-155 | Survey of Emerging Visual Design | 3
 NMAD-180 | [Programming Fundamentals I: Mobile Domain](NMAD180/) | 4
-NMAD-180 | <a href="NMAD180/readme.md"> PF I </a>
 NMAD-181 | Programming Fundamentals II: Mobile Domain | 4
 NMAD-182 | Software Analysis and Design | 3
 NMAD-250 | Mobile User Experience | 3
@@ -56,8 +54,8 @@ NMAD-260 | Mobile App Development I | 4
 NMAD-261 | Mobile App Development II | 4
 NMAD-262 | Web Services and Data Storage Technologies | 3
 NMAD-299 | Mobile Application Development Co-op | 0
-| | General Education – Ethical Perspective [^*] | 3
-| | General Education – Social Perspective [^*] | 3
+| | General Education – Ethical Perspective<sup><a href="#f2"> 2</a></sup>| 3
+| | General Education – Social Perspective<sup><a href="#f2"> 2</a></sup>| 3
 | | General Education – Scientific Principles Perspective | 3
 
 
@@ -80,8 +78,9 @@ Please see the NTID General Education Curriculum (GE) for more information.
 
 Please see Wellness Education Requirement for more information. Students completing associate degrees are required to complete one Wellness course.
 
-[^*]: An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
+<sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
+
+<sup><a name="f2">2</a></sup> An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
 
 ‡ NACA-172 and ISTE-140 are equivalent.
 
-<sup>1</sup> (#f1) Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
