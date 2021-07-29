@@ -18,7 +18,7 @@ Courses cover multiple aspects of internet, mobile-related technologies, includi
 
 Graduates of this program may work independently or with a team of programmers writing and developing software programs for mobile applications for contemporary devices. This requires skills in information gathering, user-centered design, effective deployment practices on a range of devices, and strong communication skills.
 
-Mobile application development is available as AAS or as an Associate+Bachelor’s Degree Program.
+Mobile application development is available as an Associate Degree Program.
 
 The AAS degree in mobile application development, offered by RIT's National Technical Institute for the Deaf, is a career-focused degree program that leads to immediate entry into the workforce.
 
