@@ -1,9 +1,11 @@
 # RoadMAPPs-Project<sup><a href="#f1"> 1</a></sup>
 
 ## Table of Contents
+
 [Overview](#overview)
 
 [Program Course Mask](#program-course-mask)
+
 - [First Year](#first-year)
 - [Second Year](#second-year)
 - [Third Year](#third-year)
@@ -24,7 +26,7 @@ The project:
 
 The curriculum developed and implemented offered a unique, native, cross-platform approach. Although other colleges are offering programs in mobile apps development, this program introduced a native cross-platform approach that is especially appropriate for an associate degree program. Students learned  programming concepts and acquired the skills needed to create mobile apps that ran on multiple platforms without being overwhelmed by learning three different programming languages (one for each platform). The technical approach will also benefits the computing industry because it reduces the time required to publish an app on all platforms.
 
-Students will learn through instruction, hands-on exercises, labs, learning support community activities, a capstone course where they design and develop a publishable app and, finally, a cooperative work experience. Students will have the opportunity to achieve C# and Xamarin certification, which are standards in the field. The program content and educational strategies of the curriculum will be appropriate for all students, whether hearing or deaf and can be tailored for programs less than five semesters. Also, the curriculum itself can be used as the basis for developing educational standards in this content area in the future.
+Students learned through instruction, hands-on exercises, labs, LSC activities, a capstone course where they designed and developed a publishable app and, finally, a cooperative work experience. Students have the opportunity to achieve C# and Xamarin certification, which are both standards in the field. The program content and educational strategies of the curriculum is appropriate for all students, whether hearing or deaf, and can be tailored for programs less than five (5) semesters. The curriculum itself can be used as the basis for developing educational standards in this content area in the future.
 
 ## Broader Impacts
 
@@ -74,11 +76,7 @@ NMAD-290 | Mobile Applications Development Capstone Projects &nbsp;&nbsp;&nbsp;&
 | | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | &nbsp; | &nbsp;
-| &nbsp; | <strong><em>Total Semester Credit Hours: </em></strong>| <em><strong>76</strong></em>
-
-<br />
-<hr />
-<br />
+| &nbsp; | **Total Semester Credit Hours:** | **76**
 
 Please see the NTID General Education Curriculum (GE) for more information.
 
