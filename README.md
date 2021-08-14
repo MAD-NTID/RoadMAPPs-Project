@@ -76,7 +76,7 @@ NMAD-290 | Mobile Applications Development Capstone Projects &nbsp;&nbsp;&nbsp;&
 | | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | &nbsp; | &nbsp;
-| | &nbsp; | **Total Semester Credit Hours:** | **76**
+| &nbsp; | **Total Semester Credit Hours:** | **76**
 
 Please see the NTID General Education Curriculum (GE) for more information.
 
