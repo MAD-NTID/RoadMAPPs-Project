@@ -76,14 +76,17 @@ NMAD-290 | Mobile Applications Development Capstone Projects &nbsp;&nbsp;&nbsp;&
 | | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | &nbsp; | &nbsp;
+
 | &nbsp; | **Total Semester Credit Hours:** | **76**
 
 Please see the NTID General Education Curriculum (GE) for more information.
 
 Please see Wellness Education Requirements for more information. Students completing associate degrees are required to complete one Wellness course.
 
-<sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license.
+<sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license (see below).  
 
 <sup><a name="f2">2</a></sup> An ASL-Deaf Cultural Studies (AASASLDCS) course is required for graduation. It can be taken in any semester and can be taken at NTID or another college of RIT. In order to fulfill this requirement as part of the credit hours in the program, it can be a course approved for both AASASLDCS and a General Education – Perspective or General Education – Elective.
 
 <sup><a name="f3">‡</a></sup> NACA-172 and ISTE-140 are equivalent.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
