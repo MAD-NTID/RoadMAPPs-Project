@@ -1,35 +1,43 @@
 # RoadMAPPs-Project<sup><a href="#f1"> 1</a></sup>
 
 ## Table of Contents
+
 [Overview](#overview)
 
 [Program Course Mask](#program-course-mask)
+
 - [First Year](#first-year)
 - [Second Year](#second-year)
 - [Third Year](#third-year)
 
 ## Overview
 
-Due to explosive growth in the use of mobile computing devices, there has been an employment boom in the field of mobile application development, and the demand for new and innovative mobile apps is growing at an incredible speed.
+The Information and Computing Studies (ICS) department at the National Technical Institute for the Deaf (NTID), a college of Rochester Institute of Technology (RIT), proposed a project designed to increase the number of deaf students pursuing IT-related careers through the development and implementation of an Associate of Applied Science Degree (AAS) in Mobile Application Development for deaf and hard-of-hearing students.
 
-The associate in applied science (AAS) degree in mobile application development prepares students for work in the software development industry with a focus on application design and development for mobile platforms. Mobile app development is a field that brings concepts in programming, web development, and interface design together. Using current and emerging technologies, students develop skills in application design, learn relevant programming languages used for application development on a variety of smart-devices, and learn the policies and procedures for submitting apps for distribution. This program is specifically focused on qualified deaf and hard of hearing students.
+The project:
 
-Courses cover multiple aspects of internet, mobile-related technologies, including programming languages and web markup, server side technologies and tools, mobile web development, responsive design, and application optimization for mobile devices.
+1. Included the development and implementation of curriculum that offers a unique, native, cross-platform approach to developing (mobile) apps;
+2. Included ancillary activities that provide a _Learning Support Community_ (LSC) for deaf and hard-of-hearing (hereafter referred to as deaf) students with activities both in and out-of-class to increase peer support and enhance student-faculty and student-industry partner interactions, all leading to greater retention;
+3. Was supported though strong advisory board/industry partnerships who reviewed the program, mentored students in LSC activities, provided capstone projects, offered cooperative (co-op) work experience opportunities, and assisted with full-time job placement;
+4. Improved faculty skills in mobile application development through professional development activities; and
+5. Created a pathway to the program for middle and high school students through career awareness and summer camp activities and dual credit courses.
 
-Graduates of this program may work independently or with a team of programmers writing and developing software programs for mobile applications for contemporary devices. This requires skills in information gathering, user-centered design, effective deployment practices on a range of devices, and strong communication skills.
+## Intellectual Merit
 
-Mobile application development is available as an Associate Degree Program.
+The curriculum developed and implemented offered a unique, native, cross-platform approach. Although other colleges are offering programs in mobile apps development, this program introduced a native cross-platform approach that is especially appropriate for an associate degree program. Students learned  programming concepts and acquired the skills needed to create mobile apps that ran on multiple platforms without being overwhelmed by learning three different programming languages (one for each platform). The technical approach will also benefits the computing industry because it reduces the time required to publish an app on all platforms.
 
-The AAS degree in mobile application development, offered by RIT's National Technical Institute for the Deaf, is a career-focused degree program that leads to immediate entry into the workforce.
+Students learned through instruction, hands-on exercises, labs, LSC activities, a capstone course where they designed and developed a publishable app and, finally, a cooperative work experience. Students have the opportunity to achieve C# and Xamarin certification, which are both standards in the field. The program content and educational strategies of the curriculum is appropriate for all students, whether hearing or deaf, and can be tailored for programs less than five (5) semesters. The curriculum itself can be used as the basis for developing educational standards in this content area in the future.
 
-The Associate+Bachelor’s Degree Program in mobile application development prepares you to complete an RIT bachelor’s degree. You start with an AAS in mobile application development, which provides you with the foundational courses and credits you need to enroll in and successfully complete a bachelor's degree program in RIT's Golisano College of Computing and Information Sciences. Upon completion of your AAS program, you will enroll in the Golisano College where you will complete a bachelor's degree in web and mobile computing.
+## Broader Impacts
+
+The Mobile Applications Development program will not only increase the number of diverse workers in an emerging technology field, it will also broaden and sustain the participation of deaf workers in the global technological workforce. The skills attained will prepare deaf students for entry level employment as application developers, web/mobile designers and/or developers, and computer programmers.
 
 ## Program Course Mask
 
 ### First Year
 
 Course | | Sem. Cr. Hrs.
-:------ | :- | -------------:
+:------ | :---------------------- | ---:
 NACA-172 | [Website Development](NACA172)<sup><a href="#f3"> ‡</a></sup> | 3
 NCAR-010 | Freshman Seminar | 0
 NMAD-155 | [Survey of Emerging Visual Design](NMAD155) | 3
@@ -55,7 +63,7 @@ NMAD-262 | Web Services and Data Storage Technologies | 3
 NMAD-299 | Mobile Application Development Co-op | 0
 | | General Education – Ethical Perspective<sup><a href="#f2"> 2</a></sup>| 3
 | | General Education – Social Perspective<sup><a href="#f2"> 2</a></sup>| 3
-| | General Education – Scientific Principles Perspective | 3
+| | General Education – Scientific Principles Perspective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
 
 
 ## Third Year
@@ -63,34 +71,17 @@ NMAD-299 | Mobile Application Development Co-op | 0
 Course | | Sem. Cr. Hrs.
 :------ | :- | -------------:
 NBUS-225 | Introduction to Entrepreneurship | 3
-NMAD-290 | Mobile Applications Development Capstone Projects | 3
+NMAD-290 | Mobile Applications Development Capstone Projects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
 | | Open Elective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | &nbsp; | &nbsp;
-| &nbsp; | <strong><em>Total Semester Credit Hours: </em></strong>| <em><strong>76</strong></em>
 
-<table style="width: 50%">
-  <tr>
-    <th>Course</th>
-    <th></th>
-    <th>Sem. Cr. Hrs</th>
-  </tr>
-  <tr>
-    <td>NBUS-225</td>
-    <td>Introduction to Entrepreneurship</td>
-    <td>3</td>
-  </tr>
- </table>
-  
-
-<br />
-<hr />
-<br />
+| &nbsp; | **Total Semester Credit Hours:** | **76**
 
 Please see the NTID General Education Curriculum (GE) for more information.
 
-Please see Wellness Education Requirement for more information. Students completing associate degrees are required to complete one Wellness course.
+Please see Wellness Education Requirements for more information. Students completing associate degrees are required to complete one Wellness course.
 
 <sup><a name="f1">1</a></sup> Course materials developed with support from the National Science Foundation and are distributed under the Creative Commons license (see below).  
 
