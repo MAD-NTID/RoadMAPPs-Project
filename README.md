@@ -65,8 +65,7 @@ NMAD-299 | Mobile Application Development Co-op | 0
 | | General Education – Social Perspective<sup><a href="#f2"> 2</a></sup>| 3
 | | General Education – Scientific Principles Perspective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
 
-
-## Third Year
+### Third Year
 
 Course | | Sem. Cr. Hrs.
 :------ | :- | -------------:
