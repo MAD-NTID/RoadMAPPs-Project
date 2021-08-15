@@ -34,6 +34,8 @@ The Mobile Applications Development program will not only increase the number of
 
 ## Program Course Mask
 
+The following course mask lists the courses necessary to successfully complete the MAD program.  Click on a highlighted title for more information about a specific course.
+
 ### First Year
 
 Course | | Sem. Cr. Hrs.
@@ -53,14 +55,14 @@ UWRT-150 | General Education – First-Year Writing: FYW: Writing Seminar (WI) |
 
 Course | | Sem. Cr. Hrs.
 :------ | :- | -------------:
-ISTE-230 | Introduction to Database and Data Modeling | 3
-ISTE-240 | Web & Mobile II | 3
-NACT-240 | The World of Work | 3
-NMAD-252 | Mobile User Interfaces  | 3
-NMAD-260 | Mobile App Development I | 4
-NMAD-261 | Mobile App Development II | 4
-NMAD-262 | Web Services and Data Storage Technologies | 3
-NMAD-299 | Mobile Application Development Co-op | 0
+ISTE-230 | [Introduction to Database and Data Modeling](ISTE230) | 3
+ISTE-240 | [Web & Mobile II](ISTE240) | 3
+NACT-240 | [The World of Work](NACT240) | 3
+NMAD-252 | [Mobile User Interfaces](NMAD252)  | 3
+NMAD-260 | [Mobile App Development I](NMAD260) | 4
+NMAD-261 | [Mobile App Development II](NMAD261) | 4
+NMAD-262 | [Web Services and Data Storage Technologies](NMAD262) | 3
+NMAD-299 | [Mobile Application Development Co-op](NMAD299) | 0
 | | General Education – Ethical Perspective<sup><a href="#f2"> 2</a></sup>| 3
 | | General Education – Social Perspective<sup><a href="#f2"> 2</a></sup>| 3
 | | General Education – Scientific Principles Perspective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
@@ -69,8 +71,8 @@ NMAD-299 | Mobile Application Development Co-op | 0
 
 Course | | Sem. Cr. Hrs.
 :------ | :- | -------------:
-NBUS-225 | Introduction to Entrepreneurship | 3
-NMAD-290 | Mobile Applications Development Capstone Projects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
+NBUS-225 | [Introduction to Entrepreneurship](NBUS255) | 3
+NMAD-290 | [Mobile Applications Development Capstone Projects](NMAD290) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3
 | | Open Elective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Artistic Perspective<sup><a href="#f2"> 2</a></sup> | 3
 | | General Education – Global Perspective<sup><a href="#f2"> 2</a></sup> | 3
