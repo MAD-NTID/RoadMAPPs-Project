@@ -14,7 +14,7 @@
 
 The Information and Computing Studies (ICS) department at the National Technical Institute for the Deaf (NTID), a college of Rochester Institute of Technology (RIT), proposed a project designed to increase the number of deaf students pursuing IT-related careers through the development and implementation of an Associate of Applied Science Degree (AAS) in Mobile Application Development for deaf and hard-of-hearing students.
 
-The project:
+## The project:
 
 1. Included the development and implementation of curriculum that offers a unique, native, cross-platform approach to developing (mobile) apps;
 2. Included ancillary activities that provide a _Learning Support Community_ (LSC) for deaf and hard-of-hearing (hereafter referred to as deaf) students with activities both in and out-of-class to increase peer support and enhance student-faculty and student-industry partner interactions, all leading to greater retention;
